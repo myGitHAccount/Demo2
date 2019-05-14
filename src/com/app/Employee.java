@@ -7,6 +7,7 @@ public class Employee {
 		String s1="git github bit";
 		int id=10;
 		System.out.println("");
+		String s2="same";
 	}
 
 }
