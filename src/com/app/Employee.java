@@ -7,7 +7,11 @@ public class Employee {
 		String s1="git github bit";
 		int id=10;
 		System.out.println("");
+
 		double d=10.0;
+
+		String s2="same";
+ 
 	}
 
 }
