@@ -6,6 +6,7 @@ public class Employee {
 		// TODO Auto-generated method stub
 		String s1="git github bit";
 		int id=10;
+		System.out.println("");
 	}
 
 }
